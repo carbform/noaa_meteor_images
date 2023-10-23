@@ -6,9 +6,10 @@ This repository contains APT/LRPT images from NOAA 15, 18, 19, and Meteor MN2-3 
 ### Images
 
 Here are some images from the repository:
-![Meteor MN2-3](meteor_13_oct_2023_comp.png)
-![NOAA 19](10oct2023/APT-A.png)
-![NOAA 18](19oct2023/fcc_noaa_18_oct19_2023.png)
+
+[meteor_13_oct_2023_comp.png]
+[10oct2023/APT-A.png]
+[19oct2023/fcc_noaa_18_oct19_2023.png]
 
 
 ### Animations
