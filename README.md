@@ -19,7 +19,7 @@ To create animations from the images, you can use a variety of software packages
 Here is an example of how to create an animation using FFmpeg:
 
 
-``` ffmpeg -framerate 1 -i images/*.jpg -c:v libx264 -pix_fmt yuv420p animation.mp4 ```
+``` ffmpeg -framerate 1 -i images/*.png -c:v libx264 -pix_fmt yuv420p animation.mp4 ```r
 
 
 This will create an MP4 video file called `animation.mp4` with a frame rate of 1 frame per second.
