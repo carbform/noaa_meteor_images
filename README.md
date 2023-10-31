@@ -1,6 +1,6 @@
 ## NOAA/Meteor APT/LRPT Images from Bengaluru, India
 
-This repository contains APT/LRPT images from NOAA 15, 18, 19, and Meteor MN2-3 satellites acquired in Bengaluru, India. The images are updated once in a while.
+This repository contains APT/LRPT images from NOAA 15, 18, 19, and Meteor M2-3 satellites acquired in Bengaluru, India. The images are updated once in a while.
 
 
 ### Images
@@ -26,7 +26,7 @@ This will create an MP4 video file called `animation.mp4` with a frame rate of 1
 
 ### Contributing
 
-Contributions to this repository are welcome. If you have any APT/LRPT images from NOAA 15, 18, 19, or Meteor MN2-3 satellites acquired from a satellite pass over India, please feel free to submit a pull request.
+Contributions to this repository are welcome. If you have any APT/LRPT images from NOAA 15, 18, 19, or Meteor M2-3 satellites acquired from a satellite pass over India, please submit a pull request.
 
 ### License
 
