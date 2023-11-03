@@ -1,35 +1,31 @@
-## NOAA/Meteor APT/LRPT Images from Bengaluru, India
+# Satellite Images from Bengaluru, India
 
-This repository contains APT/LRPT images from NOAA 15, 18, 19, and Meteor M2-3 satellites acquired in Bengaluru, India. The images are updated once in a while.
+This is where I store satellite images snapped by NOAA 15, 18, 19, and Meteor M2-3 satellites passing over Bengaluru, India. I update these images whenever something interesting flies by.
 
+## Preview
 
-### Images
-
-Here are some images from the repository:
+Have a peek at some of the images in this repo:
 
 ![Meteor](meteor/meteor_13_oct_2023_comp.png)
 ![26oct2023](2023-11-03_03-48_noaa_apt_137Mhz/fcc.png)
 ![19oct2023](19oct2023/fcc_noaa_18_oct19_2023.png)
 
+## How To Do It
 
-### Animations
+ Some handy tools to capture and decode these satellite signals:
 
-To create animations from the images, you can use a variety of software packages, such as ImageJ or FFmpeg.
-
-Here is an example of how to create an animation using FFmpeg:
-
-
-``` 
-ffmpeg -framerate 1 -i images/*.png -c:v libx264 -pix_fmt yuv420p animation.mp4 
-```
+- [Satdump](https://www.satdump.org/)
+- [SDR++](https://www.sdrpp.org/)
+- [noaa-apt](https://noaa-apt.mbernardi.com.ar/)
+- [WXtoImg](https://wxtoimgrestored.xyz/downloads/)
 
 
-This will create an MP4 video file called `animation.mp4` with a frame rate of 1 frame per second.
+## Give It a Try
 
-### Contributing
+If you're curious about using Satdump to grab satellite signals yourself, here's what you can do:
 
-Contributions to this repository are welcome. If you have any APT/LRPT images from NOAA 15, 18, 19, or Meteor M2-3 satellites acquired from a satellite pass over India, please submit a pull request.
+1. [Get the Satdump repository](https://github.com/SatDump/SatDump) on GitHub.
+2. The repository has all the instructions you need to install and use the tool.
+## Contributing
+If you've got APT/LRPT images from NOAA 15, 18, 19, or Meteor M2-3 satellites passing over India, feel free to send me a pull request. 
 
-### License
-
-This repository is licensed under the MIT License.
