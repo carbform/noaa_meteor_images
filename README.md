@@ -6,8 +6,8 @@ This is where I store satellite images snapped by NOAA 15, 18, 19, and Meteor M2
 
 Have a peek at some of the images in this repo:
 
-![Meteor](meteor/meteor_13_oct_2023_comp.png)
-![26oct2023](2023-11-03_03-48_noaa_apt_137Mhz/fcc.png)
+![Meteor](8nov2023/2023-11-08_03-49_meteor_m2-x_lrpt_137Mhz/fcc_221.png)
+![26oct2023](2023-11-12_03-38_noaa_apt_137Mhz/fcc_224.png)
 ![19oct2023](19oct2023/fcc_noaa_18_oct19_2023.png)
 
 ## How To Do It
